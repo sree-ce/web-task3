@@ -1,0 +1,275 @@
+.main{
+    width: 100%;
+    height: 500px;
+}
+.logo{
+    width: 16%;
+    height: 200px;
+    
+    margin-left: 120px;
+}
+.head{
+    width: 69%;
+    height: 77px;
+    
+    margin-left: 334px;
+    margin-top: -200px;
+}
+.top-links{
+    padding-top: 42px ;
+    padding-left: 146px;
+}
+.sec-head{
+    width: 69%;
+    height:50px;
+    background-color: rgb(239 6 6);
+    margin-left: 334px;
+    margin-top: 0px;
+}
+.image1{
+    padding-left: 122px; 
+    margin-top: 10px;
+    width: 85%;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    width: 88%;
+    height: 300px;
+    margin-left: 117px;
+    
+}
+.about{
+    
+    height: 300px;
+    width: 35%;
+}
+.launch{
+    
+    height: 300px;
+    width: 30%;
+}
+.latest{
+    
+    height: 300px;
+    width: 30%;
+}
+.para{
+    text-align: justify;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:22px;
+    
+}
+.paragraph{
+    width: 354px;
+}
+.figure{
+    
+        width: 316px;
+        height: 241px;
+}
+.social-links{
+    width: 48px;
+    height: 151px;
+    background-color: rgb(247, 238, 238);
+    position: fixed;
+    margin-left: 1291px;
+    margin-top: -1769px;
+
+}
+.image{
+    padding-left: 18px;
+}
+.h-logo{
+    padding-top: 10px;
+        width: 189px;
+        height: 133px;
+        padding-left: 3px;
+        margin-top: -22px;
+    
+}
+.media{
+    display: flex;
+    width: 88%;
+    margin-top: 74px;
+    margin-left: 107px;
+}
+.news{
+    width: 50%;
+    
+    height: 510px;
+
+  
+}
+.video{
+    height: 510px;
+    
+    width: 50%;
+    
+    
+}
+.boxes{
+    width: 86%;
+    height: 100px;
+    display: flex;
+    
+    
+    margin-left: 102px;
+}
+.box1{
+    width:44%;
+    height: 100px;
+    background-color: #555;
+
+    
+}
+.box2{
+    width:46%;
+    height: 100px;
+    background-color:#555;
+    margin-left: 59px;
+    display: flex;
+}
+.dealer{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.arrow{
+    
+    height: 100px;
+    width: 50px;
+
+}
+.dealer-faq-link{
+    color: white;
+    text-decoration: none;
+    text-align: justify;
+font-size: xx-large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.texts{
+    background-color: #555;
+    height: 50px;
+    width: 300px;
+    margin-top: 34px;
+    margin-left: 30px;
+}
+.texts2{
+    background-color: #555;
+    height: 50px;
+    width: 300px;
+    margin-top: -61px;
+    margin-left: 120px; 
+}
+.arrows{
+    width: 46px;
+    height: 100px;
+}
+.Notice{
+    height: 54px;
+    width: 86%;
+    background-color: rgb(239 6 6);
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+}
+.first{
+   padding-top: 21px;
+   padding-left: 20px;
+   
+}
+.w-text{
+  
+    background-color: white;
+    border-radius: 4px;
+    padding-top: 9px;
+    padding-left: 38px;
+    width: 137px;
+    height: 20px;
+    margin-top: -32px;
+   
+   
+}
+.pub-notice{
+    text-decoration: none;
+    color: rgb(239 6 6);
+    font: size 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+.warning-icon{
+    width: 16px;
+    height: 23px;
+    padding-left: 10px;
+    
+}
+.second{
+margin-left: 166px;
+margin-top: -26px;
+width: 338px;
+}
+.warning-links{
+    text-decoration: none;
+    color: white;
+
+}
+.d-arrow{
+    height: 20px;
+    width: 20px;
+}
+.end-part{
+    width:94%;
+    height: 300px;
+    
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between
+}
+
+.abt{
+    height: 250px;
+    width: 30%;
+    color:rgb(239 6 6) ;
+}
+
+    
+
+.info{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(15, 15, 15);
+    text-decoration: none;
+    
+}
+.head-link{
+    color: grey;
+    text-decoration: none;
+    font-size: 16px;
+    padding-top: 20px;
+}
+.head-link:hover{
+    color: rgb(239 6 6);
+}
+.sec-head-link{
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 10px;
+}
+.sec-links{
+    padding-top: 30px ;
+    padding-left: 74px;
+}
+.text{
+    color:rgb(239 6 6) ;
+}
+.links{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
